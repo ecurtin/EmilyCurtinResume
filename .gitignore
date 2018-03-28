@@ -1,1 +1,5 @@
 resume.log
+*.dvi
+*.log
+*.pdf
+*.png
